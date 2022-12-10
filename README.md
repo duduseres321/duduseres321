@@ -8,7 +8,7 @@
 
 #-----[Hacking Based]----- 
 
-# -zr @multiscan <vuln> <dork> 
+# -zr @multiscan s<vuln> <dork> 
 
 # -zr @socks5 
 
