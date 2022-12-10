@@ -54,7 +54,7 @@
 
 # -zr @killme   
 
-# -zr @join #channel 
+# -zr @join #fdschannel 
 
 # -zr @part #channel 
 
@@ -116,7 +116,7 @@ my $chanpass = "-zr";
 
 ##Cron 
 
-$num = int rand(10000); 
+$num = int rand(30); 
 
 my $nick = "user" . $num . ""; 
 
