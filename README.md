@@ -4,7 +4,7 @@
 
 # Design By Lupu
 
-#-[Zr Commands List]- 
+#-[Zr Commands List]s- 
 
 #-----[Hacking Based]----- 
 
